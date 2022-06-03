@@ -1,0 +1,36 @@
+@model Pierre.Models.Treat
+
+<h2>Edit</h2>
+
+<h4>Edit this task: @Html.DisplayFor(model => model.Name)</h4>
+
+@using (Html.BeginForm())
+{
+  @Html.HiddenFor(model => model.TreatId)
+
+  @Html.LabelFor(model => model.Name)
+  @Html.EditorFor(model => model.Name)
+
+  @Html.LabelFor(model => model.Origin)
+  @Html.EditorFor(model => model.Origin)
+
+
+  @Html.LabelFor(model => model.Ingredients)
+  @Html.EditorFor(model => model.Ingredients)
+
+  @Html.LabelFor(model => model.Price)
+  @Html.EditorFor(model => model.Price)
+
+  @Html.LabelFor(model => model.AllergyInfo)
+  @Html.EditorFor(model => model.AllergyInfo)
+
+
+
+
+  @Html.Label("Select flavor")
+  @Html.DropDownList("FlavorId")
+
+  <input type="submit" value="Save" />
+}
+
+<p>@Html.ActionLink("Treats", "Index")</p>
