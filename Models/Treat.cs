@@ -16,8 +16,8 @@ namespace Pierre.Models
     
     public int Price{ get; set;}
     public string AllergyInfo { get; set; }
-    // public virtual ApplicationUser User { get; set;}
-    
+    public virtual ApplicationUser User { get; set;}
+
     public virtual ICollection<Pierre> JoinEntities { get; set; }
 
   }
