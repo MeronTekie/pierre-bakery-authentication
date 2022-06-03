@@ -16356,6 +16356,11 @@
       "FilePath": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-five/Pierre.Solutions/Pierre/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-five/Pierre.Solutions/Pierre/Views/Treats/Create.cshtml",
+      "TargetPath": "Views\\Treats\\Create.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
