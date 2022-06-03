@@ -15,6 +15,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-five/Pierre.Solutions/Pierre
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-five/Pierre.Solutions/Pierre/Views/Flavors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmxhdm9ycy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-five/Pierre.Solutions/Pierre/Views/Flavors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmxhdm9ycy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-five/Pierre.Solutions/Pierre/Views/Flavors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmxhdm9ycy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-five/Pierre.Solutions/Pierre/Views/Flavors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmxhdm9ycy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-five/Pierre.Solutions/Pierre/Views/Flavors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmxhdm9ycy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-five/Pierre.Solutions/Pierre/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
