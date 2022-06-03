@@ -1,8 +1,8 @@
 namespace Pierre.Models
 {
-  public class Pierre
+  public class PierreBakery
   {
-    public int PierreId { get; set; }
+    public int PierreBakeryId { get; set; }
     public int  TreatId { get; set; }
     public int FlavorId { get; set; }
     public virtual Flavor Flavor { get; set; }

@@ -7,7 +7,7 @@ namespace Pierre.Models
   {
     public Treat()
     {
-      this.JoinEntities = new HashSet<Pierre>();
+      this.JoinEntities = new HashSet<PierreBakery>();
     }
     public int TreatId { get; set; }
     public string Name { get; set;}
@@ -18,7 +18,7 @@ namespace Pierre.Models
     public string AllergyInfo { get; set; }
     public virtual ApplicationUser User { get; set;}
 
-    public virtual ICollection<Pierre> JoinEntities { get; set; }
+    public virtual ICollection<PierreBakery> JoinEntities { get; set; }
 
   }
 }
