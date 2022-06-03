@@ -16298,6 +16298,11 @@
   "RootNamespace": "Pierre",
   "Documents": [
     {
+      "FilePath": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-five/Pierre.Solutions/Pierre/Views/Account/Login.cshtml",
+      "TargetPath": "Views\\Account\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-five/Pierre.Solutions/Pierre/Views/Flavors/Delete.cshtml",
       "TargetPath": "Views\\Flavors\\Delete.cshtml",
       "FileKind": "mvc"
@@ -16318,8 +16323,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-five/Pierre.Solutions/Pierre/Views/Treats/Index.cshtml",
+      "TargetPath": "Views\\Treats\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-five/Pierre.Solutions/Pierre/Views/Flavors/Create.cshtml",
       "TargetPath": "Views\\Flavors\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-five/Pierre.Solutions/Pierre/Views/Account/Register.cshtml",
+      "TargetPath": "Views\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-five/Pierre.Solutions/Pierre/Views/Account/Index.cshtml",
+      "TargetPath": "Views\\Account\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
